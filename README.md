@@ -18,9 +18,9 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Domain Name System (DNS)](#domain-name-system-dns) ✅
   - [Load Balancing](#load-balancing) ✅
   - [Clustering](#clustering) ✅
-  - [Caching](#caching)
-  - [Content Delivery Network (CDN)](#content-delivery-network-cdn)
-  - [Proxy](#proxy)
+  - [Caching](#caching) ✅
+  - [Content Delivery Network (CDN)](#content-delivery-network-cdn) ✅
+  - [Proxy](#proxy) ✅
   - [Availability](#availability)
   - [Scalability](#scalability)
   - [Storage](#storage)
