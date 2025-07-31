@@ -21,15 +21,15 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Caching](#caching) ✅
   - [Content Delivery Network (CDN)](#content-delivery-network-cdn) ✅
   - [Proxy](#proxy) ✅
-  - [Availability](#availability)
-  - [Scalability](#scalability)
-  - [Storage](#storage)
+  - [Availability](#availability) ✅
+  - [Scalability](#scalability) ✅
+  - [Storage](#storage) ✅
 
 - **Chapter II**
 
-  - [Databases and DBMS](#databases-and-dbms)
-  - [SQL databases](#sql-databases)
-  - [NoSQL databases](#nosql-databases)
+  - [Databases and DBMS](#databases-and-dbms) ✅
+  - [SQL databases](#sql-databases) ✅
+  - [NoSQL databases](#nosql-databases) ✅
   - [SQL vs NoSQL databases](#sql-vs-nosql-databases)
   - [Database Replication](#database-replication)
   - [Indexes](#indexes)
