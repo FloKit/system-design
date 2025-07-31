@@ -30,7 +30,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Databases and DBMS](#databases-and-dbms) ✅
   - [SQL databases](#sql-databases) ✅
   - [NoSQL databases](#nosql-databases) ✅
-  - [SQL vs NoSQL databases](#sql-vs-nosql-databases)
+  - [SQL vs NoSQL databases](#sql-vs-nosql-databases) ✅
   - [Database Replication](#database-replication)
   - [Indexes](#indexes)
   - [Normalization and Denormalization](#normalization-and-denormalization)
