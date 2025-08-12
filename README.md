@@ -40,7 +40,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Transactions](#transactions) ✅
   - [Distributed Transactions](#distributed-transactions) ❌
   - [Sharding](#sharding) ✅
-  - [Consistent Hashing](#consistent-hashing)
+  - [Consistent Hashing](#consistent-hashing) ❌
   - [Database Federation](#database-federation)
 
 - **Chapter III**
