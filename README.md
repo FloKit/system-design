@@ -31,10 +31,10 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [SQL databases](#sql-databases) ✅
   - [NoSQL databases](#nosql-databases) ✅
   - [SQL vs NoSQL databases](#sql-vs-nosql-databases) ✅
-  - [Database Replication](#database-replication)
-  - [Indexes](#indexes)
-  - [Normalization and Denormalization](#normalization-and-denormalization)
-  - [ACID and BASE consistency models](#acid-and-base-consistency-models)
+  - [Database Replication](#database-replication) ✅
+  - [Indexes](#indexes) ✅
+  - [Normalization and Denormalization](#normalization-and-denormalization) ✅
+  - [ACID and BASE consistency models](#acid-and-base-consistency-models) ✅
   - [CAP theorem](#cap-theorem)
   - [PACELC Theorem](#pacelc-theorem)
   - [Transactions](#transactions)
