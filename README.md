@@ -41,13 +41,13 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Distributed Transactions](#distributed-transactions) ❌
   - [Sharding](#sharding) ✅
   - [Consistent Hashing](#consistent-hashing) ❌
-  - [Database Federation](#database-federation)
+  - [Database Federation](#database-federation) ✅
 
 - **Chapter III**
 
-  - [N-tier architecture](#n-tier-architecture)
-  - [Message Brokers](#message-brokers)
-  - [Message Queues](#message-queues)
+  - [N-tier architecture](#n-tier-architecture) ✅
+  - [Message Brokers](#message-brokers) ✅
+  - [Message Queues](#message-queues) 
   - [Publish-Subscribe](#publish-subscribe)
   - [Enterprise Service Bus (ESB)](#enterprise-service-bus-esb)
   - [Monoliths and Microservices](#monoliths-and-microservices)
