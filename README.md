@@ -35,11 +35,11 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Indexes](#indexes) ✅
   - [Normalization and Denormalization](#normalization-and-denormalization) ✅
   - [ACID and BASE consistency models](#acid-and-base-consistency-models) ✅
-  - [CAP theorem](#cap-theorem)
-  - [PACELC Theorem](#pacelc-theorem)
-  - [Transactions](#transactions)
-  - [Distributed Transactions](#distributed-transactions)
-  - [Sharding](#sharding)
+  - [CAP theorem](#cap-theorem) ✅
+  - [PACELC Theorem](#pacelc-theorem) ✅
+  - [Transactions](#transactions) ✅
+  - [Distributed Transactions](#distributed-transactions) ❌
+  - [Sharding](#sharding) ✅
   - [Consistent Hashing](#consistent-hashing)
   - [Database Federation](#database-federation)
 
