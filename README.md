@@ -48,8 +48,8 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [N-tier architecture](#n-tier-architecture) ✅
   - [Message Brokers](#message-brokers) ✅
   - [Message Queues](#message-queues) ✅
-  - [Publish-Subscribe](#publish-subscribe)
-  - [Enterprise Service Bus (ESB)](#enterprise-service-bus-esb)
+  - [Publish-Subscribe](#publish-subscribe) ✅
+  - [Enterprise Service Bus (ESB)](#enterprise-service-bus-esb) ✅
   - [Monoliths and Microservices](#monoliths-and-microservices)
   - [Event-Driven Architecture (EDA)](#event-driven-architecture-eda)
   - [Event Sourcing](#event-sourcing)
